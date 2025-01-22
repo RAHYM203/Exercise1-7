@@ -9,7 +9,7 @@ Welcome to the **Exercise 1-7** repository! This repository contains solutions a
 - [Solutions](#solutions)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [Contact](#contact)
+- [Contact](##contact)
 
 ---
 
@@ -44,9 +44,18 @@ All solutions are available in the file:
 - **Nano** - Text editor.
 - **Ubuntu** - Operating system for exercises.
 
+- 
+
 ---
 
 ## 🛠️ How to Use
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/RAHYM203/Exercise1-7.git
+
+  ## 📬 Contact
+Feel free to reach out for collaboration or feedback!
+
+- 📧 Email: [rgarayev@st.swps.edu.pl](mailto:rgarayev@st.swps.edu.pl)
+
+
